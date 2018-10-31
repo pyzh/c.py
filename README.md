@@ -1,5 +1,12 @@
-# c.py
-python API 中文化
+用法：
+
+```
+#from debug import *
+import debug as d
+
+d.打印("你怎么回事？小老弟")
+
+```
 
 常见疑问：
 
